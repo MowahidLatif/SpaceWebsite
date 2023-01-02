@@ -2,6 +2,12 @@ import React from 'react'
 
 export default function Mars() {
   return (
-    <div>Mars</div>
-  )
+    <div>
+      <div>Mars</div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>  )
 }

@@ -2,6 +2,12 @@ import React from 'react'
 
 export default function Neptune() {
   return (
-    <div>Neptune</div>
-  )
+    <div>
+      <div>Neptune</div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>  )
 }

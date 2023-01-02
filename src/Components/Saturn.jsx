@@ -2,6 +2,12 @@ import React from 'react'
 
 export default function Saturn() {
   return (
-    <div>Saturn</div>
-  )
+    <div>
+      <div>Saturn</div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>  )
 }

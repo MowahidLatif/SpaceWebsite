@@ -2,6 +2,12 @@ import React from 'react'
 
 export default function Uranus() {
   return (
-    <div>Uranus</div>
-  )
+    <div>
+      <div>Uranus</div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>  )
 }

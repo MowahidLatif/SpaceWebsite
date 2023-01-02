@@ -1,7 +1,14 @@
-import React from 'react'
+import React from "react";
 
 export default function Pluto() {
   return (
-    <div>Pluto</div>
-  )
+    <div>
+      <div>Pluto</div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
+  );
 }
