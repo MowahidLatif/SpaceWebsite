@@ -13,6 +13,15 @@ export default function Mars() {
       </div>
       <div>
         <h2>Mars is named after the Roman god of war</h2>
+        <p>
+          In ancient Roman religion and myth, Mars (Latin: Mārs, pronounced
+          [maːrs])[4] was the god of war and also an agricultural guardian, a
+          combination characteristic of early Rome.[5] He was the son of Jupiter
+          and Juno, and was pre-eminent among the Roman army's military gods.
+          Most of his festivals were held in March, the month named for him
+          (Latin Martius), and in October, which began the season for military
+          campaigning and ended the season for farming.
+        </p>
       </div>
       <div>
         <h2>Mars has 2 moons called Deimos and Phobos. </h2>
